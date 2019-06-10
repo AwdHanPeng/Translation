@@ -17,3 +17,11 @@ generation:['我们', '不能', '找到', '汤姆', '。']
 source:['She', 'is', 'fond', 'of', 'animals', '.']
 target:['她', '很', '喜欢', '动物', '。']
 generation:['她', '喜欢', '动物', '。']
+
+source:['These', 'shoes', 'are', 'too', 'big', 'for', 'me', '.']
+target:['这双鞋', '对', '我', '来说', '太大', '了', '。']
+generation:['这些', '照片', '我', '的', '眼睛', '。']
+
+source:['This', 'bike', 'needs', 'to', 'be', 'repaired', '.']
+target:['这辆', '自行车', '需要', '修理', '。']
+generation:['这', '本书', '需要', '。']
